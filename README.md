@@ -13,6 +13,8 @@
   
   #### 👨🏻‍💻 Languages and Tools <br />
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/javascript.svg" alt="JavaScript" width="25px" height="25px"></a>
+   <a href="https://firebase.google.com/" title="Firebase"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/firebase.svg" alt="Firebase" width="25px" height="25px"></a>
+   <a href="https://cloud.google.com/" title="Google Cloud Platform"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/google-cloud-platform.svg" alt="GCS" width="25px" height="25px"></a>
  <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/css-3.svg" alt="CSS3" width="25px" height="25px"></a>
  <a href="https://reactjs.org/" title="React"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React" width="25px" height="25px"></a>
  <a href="https://jquery.com/" title="jQuery"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/jquery-icon.svg" alt="jQuery" width="25px" height="25px"></a>
